@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+It will initialize an empty repository. Because I need a specific space to store commits related to a certain project.
